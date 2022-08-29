@@ -8,7 +8,7 @@
     <h1>KEVIN S</h1>
     <p><em>Alumini of st.joseph's college of engineering</em></p>
     <a href="https://www.instagram.com/jabez_kevin/"><em>jebazkevin</em></a>
-    <a href="D:\Harddisk\web deveopement\HTML-personal site\information.html">skills</a>
+    <a href="information.html">skills</a>
     <hr size="3">
     <table cellspacing="10">
       <tr>
