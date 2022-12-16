@@ -1,6 +1,6 @@
 <html>
 <head>
-  <meta charset=="utf-8">
+  
   <title>💖Kevin's personal site</title>
   </head>
   <body>
